@@ -62,3 +62,21 @@ header{
 	display:inline-block;
 	
 }
+
+@media screen and (max-width:1140px){
+
+.corpo-do-site{
+		width:100%;
+		background-color:rgb(193,135,58);
+		display:inline-block;
+		text-align:center;
+}
+.mangas-fileira-1, .mangas-fileira-2, .mangas-fileira-3, .mangas-fileira-4, .mangas-fileira-5{
+	display:block;
+	
+	margin:0 30px;
+}
+
+
+}
+
